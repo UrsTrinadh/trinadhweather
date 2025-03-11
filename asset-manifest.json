@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/trinadhweather/static/css/main.1c7d3c32.css",
+    "main.js": "/trinadhweather/static/js/main.b3e27407.js",
+    "static/js/787.42650831.chunk.js": "/trinadhweather/static/js/787.42650831.chunk.js",
+    "static/media/lake-background.jpg": "/trinadhweather/static/media/lake-background.f9a876b473cd3d6420ae.jpg",
+    "static/media/search.svg": "/trinadhweather/static/media/search.154f1af7b63834ca7cfea206d216ebce.svg",
+    "static/media/not-found.svg": "/trinadhweather/static/media/not-found.c81075d52b4d40abe0e252c4f4f4afaa.svg",
+    "index.html": "/trinadhweather/index.html",
+    "main.1c7d3c32.css.map": "/trinadhweather/static/css/main.1c7d3c32.css.map",
+    "main.b3e27407.js.map": "/trinadhweather/static/js/main.b3e27407.js.map",
+    "787.42650831.chunk.js.map": "/trinadhweather/static/js/787.42650831.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c7d3c32.css",
+    "static/js/main.b3e27407.js"
+  ]
+}
