@@ -9,7 +9,7 @@
 Weather Application created using ReactJS and APIs provided by OpenAPI.org.
 
 - [Contributing Guidelines](https://github.com/UrsTrinadh/trinadhweather/blob/main/CONTRIBUTING.md)
-- [About Hacktoberfest](https://github.com/UrsTrinadh/trinadhweather/blob/main/%E2%81%ABhackorreset.md)
+- [About Hacktoberfest](https://github.com/UrsTrinadh/trinadhweather/blob/main/Hacktoberfest.md)
 
 ## Features
 
