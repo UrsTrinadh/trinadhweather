@@ -23,7 +23,6 @@ npm install
 6. Create .env file in trinadhweather folder and do as shown in image
    ![image](![image](https://github.com/user-attachments/assets/80541cdb-414e-4d2e-b02c-a2dab93c4048)
 )
-)
 
 7. Run the React Project
 
