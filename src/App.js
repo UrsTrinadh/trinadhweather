@@ -6,8 +6,8 @@ import {
   TbMoon,
   TbSearch,
   TbSun,
-  // TbVolume,
-  // TbVolumeOff,
+  TbVolume,
+  TbVolumeOff,
 } from 'react-icons/tb';
 import DetailsCard from './components/DetailsCard';
 import SummaryCard from './components/SummaryCard';
@@ -38,7 +38,7 @@ function App() {
     return localStorage.getItem('language') || 'en';
   });
   const [loading, setLoading] = useState(false);
-  // eslint-disable-next-line
+
   const [backgroundSoundEnabled, setBackgroundSoundEnabled] = useState(true);
   const [isFahrenheitMode, setIsFahrenheitMode] = useState(false);
   const degreeSymbol = useMemo(
@@ -346,12 +346,12 @@ function App() {
       </div>
     </form>
 
-            {/* <button
+            <button
               className='s-icon sound-toggler'
               onClick={() => setBackgroundSoundEnabled((prev) => !prev)}
             >
               {backgroundSoundEnabled ? <TbVolume /> : <TbVolumeOff />}
-            </button> */}
+            </button>
           </div>
         </div>
         <div className='info-container'>
