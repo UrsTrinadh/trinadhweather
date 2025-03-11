@@ -21,7 +21,7 @@ npm install
 
 5. Create Your API Key from <a href= "https://openweathermap.org/">OpenWeather</a>
 6. Create .env file in HazzWeather folder and do as shown in image
-   ![image](https://user-images.githubusercontent.com/c:\Users\trina\OneDrive\Pictures\Screenshots\Screenshot 2025-03-10 161626.png.)
+   ![image](https://user-images.githubusercontent.com/c:\Users\trina\OneDrive\Pictures\Screenshots\Screenshot2025-03-10161626.png.)
 
 7. Run the React Project
 
