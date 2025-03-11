@@ -57,17 +57,9 @@ Weather Application created using ReactJS and APIs provided by OpenAPI.org.
 
 - Make a pull request! (compare your branch with the owner main branch)
 
-# Contributors
+
 
 <br>
-<div>
-<h1 align="center">
- <b>Thanks to these amazing people
-<h1>
-<a href="https://github.com/HridoyHazard/HazzWeather/contributors">
-  <img src="https://contrib.rocks/image?repo=HridoyHazard/HazzWeather&&max=817" />
-</a>
-</div>
 <br>
 <div align="center">
 <h3>Show some ❤️ by starring this awesome repository!</h3>
