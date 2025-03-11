@@ -1,4 +1,4 @@
-# [TrinadhWeather]https://urstrinadh.github.io/trinadhweather/
+# [TrinadhWeather](https://urstrinadh.github.io/trinadhweather/)
 
 ## The Only Weather App You Need !
 
@@ -8,8 +8,8 @@
 
 Weather Application created using ReactJS and APIs provided by OpenAPI.org.
 
-- [Contributing Guidelines]https://github.com/UrsTrinadh/trinadhweather/blob/main/CONTRIBUTING.md
-- [About Hacktoberfest]https://github.com/UrsTrinadh/trinadhweather/blob/main/%E2%81%ABhackorreset.md
+- [Contributing Guidelines](https://github.com/UrsTrinadh/trinadhweather/blob/main/CONTRIBUTING.md)
+- [About Hacktoberfest](https://github.com/UrsTrinadh/trinadhweather/blob/main/%E2%81%ABhackorreset.md)
 
 ## Features
 
