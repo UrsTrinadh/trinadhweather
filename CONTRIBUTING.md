@@ -21,10 +21,10 @@ npm install
 
 5. Create Your API Key from <a href= "https://openweathermap.org/">OpenWeather</a>
 6. Create .env file in trinadhweather folder and do as shown in image
-   (![image]https://github.com/user-attachments/assets/80541cdb-414e-4d2e-b02c-a2dab93c4048
+   ![image](https://github.com/user-attachments/assets/80541cdb-414e-4d2e-b02c-a2dab93c4048
 )
 
-7. Run the React Project
+8. Run the React Project
 
 ```markdown
 npm start
